@@ -119,8 +119,7 @@ public class CadastroAluno extends Application {
         primaryStage.setScene(scene);
         scene.getStylesheets().add(CadastroAluno.class.getResource("cadastro.css").toExternalForm());
         primaryStage.show();
-        
-        //Teste
+
     }
 
     public static void main(String[] args) {
